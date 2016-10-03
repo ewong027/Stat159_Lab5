@@ -1,1 +1,3 @@
 This is a change to a file. We are trying to see if the changes conflict. Woo!
+
+Adding content to file2.txt while in task4B.
