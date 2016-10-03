@@ -1,2 +1,1 @@
-This is a change to a file. We are trying to see if the changes conflict. 
-
+This is a change to a file. We are trying to see if the changes conflict. Woo!
